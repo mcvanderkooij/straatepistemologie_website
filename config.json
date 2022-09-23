@@ -1,0 +1,13 @@
+{
+   "baseURL": "http://straatepistemologie.nl/",
+   "disableKinds": ["section", "taxonomy", "term", "RSS", "robotsTXT"],
+   "languageCode": "nl-nl",
+   "defaultContentLanguage": "nl",
+   "theme": "hugo-scroll",
+   "title": "Straatepistemologie",
+   "params":
+   {
+      "copyright": "© Martijn van der Kooij",
+      "description": "Nederlandse website voor straatepistemologie, uitleg en verwijzingen"
+   }
+}
