@@ -1,5 +1,6 @@
 {
-   "baseURL": "http://straatepistemologie.nl/",
+   "baseURL_": "http://straatepistemologie.nl/",
+   "relativeURLs": true,
    "disableKinds": ["section", "taxonomy", "term", "RSS", "robotsTXT"],
    "languageCode": "nl-nl",
    "defaultContentLanguage": "nl",

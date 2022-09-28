@@ -1,3 +1,3 @@
-hugo --minify --baseURL https://www.straatepistemologie.nl/ --destination public\www.straatepistemologie.nl
+hugo --minify --destination public\www.straatepistemologie.nl
 
 pause
